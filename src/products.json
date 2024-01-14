@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Monochrome Checked Rug",
+    "id": 1,
+    "range": "Checked",
+    "picture_url": "src/Images/Products/Monochrome Check Rug, Off White.jpeg",
+    "price": 117.92,
+    "size": "89cm x 160cm",
+    "description": "This dornier rug adds a bohemian edge to your room. With a silky-soft surface to step on and an anti-slip bottom for enhanced safety, this personalized rug adds both personality and extra coziness to any space. 100% polyester \\n\\nTextured non-skid back \\nDurable textured face \\n35in by 63in (89cm x 160cm)",
+    "material": "Polyester",
+    "care": "Handwash\\nDryclean\\nNot washing machine friendly\\nIndoor use only",
+    "quantity available": 200,
+    "delivery cost": 31.29
+  },
+  {
+    "name": "Monochrome Checked-Side Rug",
+    "id": 2,
+    "range": "Checked",
+    "picture_url": "src/Images/Products/Monochrome Check Side Rug, Off White.jpeg",
+    "price": 117.92,
+    "size": "89cm x 160cm",
+    "description": "This dornier rug adds a bohemian edge to your room. With a silky-soft surface to step on and an anti-slip bottom for enhanced safety, this personalized rug adds both personality and extra coziness to any space. 100% polyester \\n\\nTextured non-skid back \\nDurable textured face \\n35in by 63in (89cm x 160cm)",
+    "material": "Polyester",
+    "care": "Handwash\\nDryclean\\nNot washing machine friendly\\nIndoor use only",
+    "quantity available": 200,
+    "delivery cost": 31.29
+  },
+  {
+    "name": "Monochrome Diamond Rug",
+    "id": 3,
+    "range": "Checked",
+    "picture_url": "src/Images/Products/Monochrome Diamond Rug, Off White.jpeg",
+    "price": 117.92,
+    "size": "89cm x 160cm",
+    "description": "This dornier rug adds a bohemian edge to your room. With a silky-soft surface to step on and an anti-slip bottom for enhanced safety, this personalized rug adds both personality and extra coziness to any space. 100% polyester \\n\\nTextured non-skid back \\nDurable textured face \\n35in by 63in (89cm x 160cm)",
+    "material": "Polyester",
+    "care": "Handwash\\nDryclean\\nNot washing machine friendly\\nIndoor use only",
+    "quantity available": 200,
+    "delivery cost": 31.29
+  },
+  {
+    "name": "Multicoloured Pastel Rug",
+    "id": 4,
+    "range": "Natural Shapes",
+    "picture_url": "src/Images/Products/Shapes of Nature Pastel Rug, Multi.jpeg",
+    "price": 117.92,
+    "size": "89cm x 160cm",
+    "description": "This dornier rug adds a bohemian edge to your room. With a silky-soft surface to step on and an anti-slip bottom for enhanced safety, this personalized rug adds both personality and extra coziness to any space. 100% polyester \\n\\nTextured non-skid back \\nDurable textured face \\n35in by 63in (89cm x 160cm)",
+    "material": "Polyester",
+    "care": "Handwash\\nDryclean\\nNot washing machine friendly\\nIndoor use only",
+    "quantity available": 200,
+    "delivery cost": 31.29
+  },
+  {
+    "name": "Natural Shape Deep Pastel Rug",
+    "id": 5,
+    "range": "Natural Shapes",
+    "picture_url": "src/Images/Products/Shapes of Nature Rug, Multi.jpeg",
+    "price": 117.92,
+    "size": "89cm x 160cm",
+    "description": "This dornier rug adds a bohemian edge to your room. With a silky-soft surface to step on and an anti-slip bottom for enhanced safety, this personalized rug adds both personality and extra coziness to any space. 100% polyester \\n\\nTextured non-skid back \\nDurable textured face \\n35in by 63in (89cm x 160cm)",
+    "material": "Polyester",
+    "care": "Handwash\\nDryclean\\nNot washing machine friendly\\nIndoor use only",
+    "quantity available": 200,
+    "delivery cost": 31.29
+  },
+  {
+    "name": "Natural Shape Neutral Toned Rug",
+    "id": 6,
+    "range": "Natural Shapes",
+    "picture_url": "src/Images/Products/Shapes of Nature Rug, Neutral Tones.jpeg",
+    "link": "",
+    "price": 117.92,
+    "size": "89cm x 160cm",
+    "description": "This dornier rug adds a bohemian edge to your room. With a silky-soft surface to step on and an anti-slip bottom for enhanced safety, this personalized rug adds both personality and extra coziness to any space. 100% polyester \\n\\nTextured non-skid back \\nDurable textured face \\n35in by 63in (89cm x 160cm)",
+    "material": "Polyester",
+    "care": "Handwash\\nDryclean\\nNot washing machine friendly\\nIndoor use only",
+    "quantity available": 200,
+    "delivery cost": 31.29
+  }
+]
